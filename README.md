@@ -8,11 +8,9 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38bdf8)](https://tailwindcss.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-[**Live Demo →**](https://tensor-lab.vercel.app) · [Report Bug](https://github.com/haotong-Duan/tensor-lab/issues) · [Request Feature](https://github.com/haotong-Duan/tensor-lab/issues)
+[Report Bug](https://github.com/haotong-Duan/tensor-lab/issues) · [Request Feature](https://github.com/haotong-Duan/tensor-lab/issues)
 
 ---
-
-![Tensor Lab](https://img.shields.io/badge/Status-Active-success) ![Visitors](https://img.shields.io/badge/Visitors-Welcome-blueviolet)
 
 ## ✨ Philosophy
 
